@@ -1,4 +1,5 @@
 #!/usr/bin/awk -f
+# Author: Kathleen Near
 
 BEGIN {
     FS=",";                 #set field separator (in the .csv file all data is separated by commas)
